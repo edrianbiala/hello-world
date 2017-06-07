@@ -1,3 +1,5 @@
 # hello-world
 new repository
-ambitious, outgoing, and friendly
+Welcome to Heroku
+
+Where you can deploy your own apps.  
